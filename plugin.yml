@@ -1,0 +1,5 @@
+name: NoStrength
+main: Primal.NoStrength.com.Primal
+version: 1.8.1
+commands:
+ nostrength:
